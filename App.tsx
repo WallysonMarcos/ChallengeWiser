@@ -1,8 +1,15 @@
 import React from 'react';
-import { Text, } from 'react-native';
+import { Provider } from 'react-redux'
 
 import SignIn  from './src/screens/signIn'
+import store from './src/store';
 
-const App = () => <SignIn /> 
+const App = () => {
+    return(
+        <Provider store={store}>
+            <SignIn /> 
+        </Provider>
+    );
+} 
 
 export default App;
