@@ -64,7 +64,7 @@ export const TextFlex = styled.Text<TextProps>`
 
  
 
-export const ButtonSubmit = styled.TouchableOpacity`
+export const ButtonSubmit = styled.TouchableHighlight`
  
   position: absolute;
   bottom: 0; 
