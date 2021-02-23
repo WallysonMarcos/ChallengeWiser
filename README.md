@@ -1,5 +1,6 @@
 # ChallengeWiser
 
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -16,3 +17,24 @@ Build and lauch the App on your emulator or device
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
